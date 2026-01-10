@@ -24,22 +24,20 @@ sites:
     icon: https://www.google.com/s2/favicons?sz=64&domain=github.com
   - name: Claude-Powered Text Editor
     url: https://claude-text-editor.onrender.com/
-    icon: https://www.google.com/s2/favicons?sz=64&domain=github.com  - name: Claude-Powered Text Editor
+    icon: https://www.google.com/s2/favicons?sz=64&domain=github.com
   - name: Email Reply App
     url: https://email-reply-app.onrender.com/
-    icon: https://www.google.com/s2/favicons?sz=64&domain=github.com  - name: Claude-Powered Text Editor
-
+    icon: https://www.google.com/s2/favicons?sz=64&domain=github.com
 
 # Status Website Settings
 status-website:
   title: Web Status
-  introTitle: "**Upptime** for Xiao Zhan Photo Galleries"
-  introMessage: This page monitors the availability of websites hosted on GitHub Pages and onrender.com.
+  introTitle: "**Upptime** Status Page"
+  introMessage: This page monitors the availability of Xiao Zhan fansites hosted on GitHub Pages and Render.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/canadaxfx/web-status
 
-# Notification Settings (Optional)
 # Upptime will automatically create GitHub Issues when a site is down.
