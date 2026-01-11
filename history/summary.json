@@ -113,11 +113,11 @@
     "icon": "https://www.google.com/s2/favicons?sz=64&domain=github.com",
     "slug": "claude-powered-text-editor",
     "status": "up",
-    "uptime": "99.01%",
+    "uptime": "99.04%",
     "uptimeDay": "98.64%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
     "time": 660,
     "timeDay": 1107,
     "timeWeek": 660,
@@ -132,9 +132,9 @@
     "url": "https://email-reply-app.onrender.com/",
     "icon": "https://www.google.com/s2/favicons?sz=64&domain=github.com",
     "slug": "email-reply-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,6 +143,8 @@
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-11": 0
+    }
   }
 ]
