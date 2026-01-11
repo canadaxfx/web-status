@@ -112,19 +112,19 @@
     "url": "https://claude-text-editor.onrender.com/",
     "icon": "https://www.google.com/s2/favicons?sz=64&domain=github.com",
     "slug": "claude-powered-text-editor",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 300,
-    "timeDay": 113,
-    "timeWeek": 300,
-    "timeMonth": 300,
-    "timeYear": 300,
+    "status": "up",
+    "uptime": "99.01%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
+    "time": 660,
+    "timeDay": 1107,
+    "timeWeek": 660,
+    "timeMonth": 660,
+    "timeYear": 660,
     "dailyMinutesDown": {
-      "2026-01-11": 1
+      "2026-01-11": 20
     }
   },
   {
