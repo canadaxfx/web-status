@@ -22,13 +22,10 @@ sites:
   - name: Xiao Zhan Social Media Hub
     url: https://canadaxfx.github.io/xiaozhan/
     icon: https://www.google.com/s2/favicons?sz=64&domain=github.com
-  - name: Claude-Powered Text Editor
-    url: https://claude-text-editor.onrender.com/
+  - name: Weibo Manager
+    url: http://35.212.241.252:5005/login
     icon: https://www.google.com/s2/favicons?sz=64&domain=github.com
-  - name: Email Reply App
-    url: https://email-reply-app.onrender.com/
-    icon: https://www.google.com/s2/favicons?sz=64&domain=github.com
-
+  
 # Status Website Settings
 status-website:
   title: Web Status
