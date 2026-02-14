@@ -114,9 +114,9 @@
     "url": "http://35.212.241.252:5005/login",
     "icon": "https://www.google.com/s2/favicons?sz=64&domain=github.com",
     "slug": "weibo-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +125,8 @@
     "timeWeek": 97,
     "timeMonth": 98,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-14": 0
+    }
   }
 ]
